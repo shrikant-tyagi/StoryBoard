@@ -37,7 +37,6 @@ const NavComponent = () => {
         </div>
 
         <div className='border-2 border-blue-300 bg-blue-200 p-2 rounded-md hidden sm:flex'>
-          {/* icon */}
           <div>Quick Start</div>
         </div>
 
